@@ -7,7 +7,15 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "dev": "nodemon src/server.js"
   },
-  "keywords": ["backend", "professional", "folder", "structure"]
+  "keywords": [
+    "backend",
+    "professional",
+    "folder",
+    "structure"
+  ],
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }

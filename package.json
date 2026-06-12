@@ -1,0 +1,13 @@
+{
+  "name": "chaiwithbackend",
+  "version": "1.0.0",
+  "description": "setup professional backend project folder Structure",
+  "license": "ISC",
+  "author": "Roshan paudel",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": ["backend", "professional", "folder", "structure"]
+}
